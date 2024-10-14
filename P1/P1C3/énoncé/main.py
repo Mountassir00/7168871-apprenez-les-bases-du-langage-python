@@ -1,1 +1,2 @@
-## Écrivez votre code ici !
+print("J'apprends Pyhton !")
+print(17 + 35 * 2)
